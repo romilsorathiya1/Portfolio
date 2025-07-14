@@ -642,6 +642,7 @@ textarea {
   border: 1px solid #999;
   border-radius: 10px;
   height: 8vh;
+  color: var(--text-color);
   background-color: transparent;
   width: 80%;
   padding: 2vh;
