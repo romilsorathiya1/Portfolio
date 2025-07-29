@@ -766,7 +766,6 @@ textarea:focus {
     background-color: var(--nav-bg);
     width: 100vw;
     height: 50vh;
-    border: 2px solid red;
     flex-direction: column;
   }
 
