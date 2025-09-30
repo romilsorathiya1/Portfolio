@@ -51,7 +51,7 @@ useGSAP(() =>{
         />
           </span>
         </h2>
-        <a href='https://drive.google.com/file/d/1woUk9I9GCXcQe2R-x-jA5t3VMQIbKIqN/view?usp=drive_link' target='blank' className='home-left-resume'>Download Resume</a>
+        <a href='https://drive.google.com/file/d/1zWWr7NR4RZXBNqk7Ox_UO5bG-2qXqhXj/view?usp=drive_link' target='blank' className='home-left-resume'>Download Resume</a>
         <div className='home-left-github-linkedin'>
           <a href="https://github.com/romilsorathiya1" target='blank' className='home-left-github'><FaGithub /></a>
           <a href="https://www.linkedin.com/in/romil-sorathiya-1b187b303/" target='blank' className='home-left-linkedin'><FaLinkedin /></a>
